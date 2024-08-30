@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "648739613171",
+    "firebase_url": "https://handyman-2be6d-default-rtdb.firebaseio.com",
+    "project_id": "handyman-2be6d",
+    "storage_bucket": "handyman-2be6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648739613171:android:c2efd0ca2b23e65d398a86",
+        "android_client_info": {
+          "package_name": "com.handyman.itm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6I1YqhHl0FIG_VxmYrI1WqtAoEKMPapg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
